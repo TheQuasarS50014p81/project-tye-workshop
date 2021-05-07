@@ -25,7 +25,10 @@ tye deploy --interactive
 Enter the Container Registry (ex: 'example.azurecr.io' for Azure or 'example' for dockerhub):
 ```
 
-入力内容が正しいと DockerHub にイメージがプッシュされ、そのイメージを使ってアプリケーションが Kubernetes 上に実行されます。
+入力内容が正しいと DockerHub にイメージがプッシュされ、そのイメージを使ってアプリケーションが Kubernetes 上に実行されます。  
+自身の Dockerhub にプッシュされたイメージを確認してみましょう。
+
+![Dockerhub](img/dockerhub.png)
 
 ## 動作確認
 

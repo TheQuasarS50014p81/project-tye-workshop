@@ -15,13 +15,13 @@ Tye は[グローバルツール](https://docs.microsoft.com/ja-jp/dotnet/core/t
 以下のコマンドを実行して Tye をインストールします。
 
 ```
-dotnet tool install -g Microsoft.Tye --version "0.6.0-alpha.21070.5"
+dotnet tool install -g Microsoft.Tye --version "0.7.0-alpha.21279.2"
 ```
 
 既に Tye をインストールしている場合は、以下のコマンドでアップデートを行います。
 
 ```
-dotnet tool update -g Microsoft.Tye --version "0.6.0-alpha.21070.5"
+dotnet tool update -g Microsoft.Tye --version "0.7.0-alpha.21279.2"
 ```
 
 以下のコマンドで Tye が正しくインストールできていることを確認します。

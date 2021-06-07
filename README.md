@@ -8,3 +8,4 @@ This workshop covers of [Project Tye](https://github.com/dotnet/tye).
 2. [Basic tutorial](Basic/README.md)
 3. [YAML configuration tutorial](YAML/README.md)
 4. [Deploy to Kubernetes tutorial](Deploy/README.md)
+5. [Redis tutorial](Redis/README.md)

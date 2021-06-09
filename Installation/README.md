@@ -29,3 +29,11 @@ dotnet tool update -g Microsoft.Tye --version "0.7.0-alpha.21279.2"
 ```
 dotnet tool list -g
 ```
+
+## 自己証明書の信頼
+
+dotnet SDK を初めてインストールした場合、自己証明書を信頼する必要があるため、以下コマンドを実行します。
+
+```shell
+dotnet dev-certs https --trust
+```
